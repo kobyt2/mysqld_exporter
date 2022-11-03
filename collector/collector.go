@@ -26,7 +26,7 @@ import (
 
 const (
 	// Exporter namespace.
-	namespace = "mysql"
+	namespace = "qce"
 	// Math constant for picoseconds to seconds.
 	picoSeconds = 1e12
 	// Query to check whether user/table/client stats are enabled.
